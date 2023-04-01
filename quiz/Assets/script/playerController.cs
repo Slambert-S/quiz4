@@ -11,6 +11,7 @@ public class playerController : MonoBehaviour
     public LayerMask groundLayer; // the ground layer
     public bool isGrounded = false; // is the character on the ground?
     private Rigidbody2D rb; // reference to the character's rigidbody
+    
 
     public int selectedWeapon = 0;
     private previewTrajectory prevTrajectory;
@@ -91,6 +92,12 @@ public class playerController : MonoBehaviour
                     bullet.transform.Rotate(Vector3.forward * 90);
                 }
             }
+
+            GetComponent<playerController>().enabled = false;
+            GameObject camera = GameObject.Find("Main Camera");
+            camera.GetComponent<folowPLayer>().player = bullet.transform;
+            GameObject.Find("gameManager").GetComponent<turnManager>().playerEndTurn();
+
         }
 
         // check if the character is grounded by casting a raycast downward

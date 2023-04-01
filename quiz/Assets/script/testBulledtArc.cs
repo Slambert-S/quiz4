@@ -82,7 +82,11 @@ public class testBulledtArc : MonoBehaviour
         // Move the game object to the current position
         transform.position = currentPosition;
 
-
+        if(transform.position.y <= -7)
+        {
+            GameObject.Find("gameManager").GetComponent<turnManager>().bullethit();
+            Destroy(this.gameObject);
+        }
         if (timeSinceLaunch < 0.1){
             return;
         }
@@ -91,6 +95,8 @@ public class testBulledtArc : MonoBehaviour
         if (colision)
         {
             GetComponent<amoDestrction>().collisionDetected(gameObject.name);
+            GameObject.Find("gameManager").GetComponent<turnManager>().bullethit();
+            Debug.Log("after bullet hit");
             Destroy(this.gameObject);
         }
     }

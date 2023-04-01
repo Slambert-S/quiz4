@@ -15,15 +15,25 @@ public class enemyBT : Tree
         Node root = new Selector(new List<Node>
         {
             //TODO :Add attack behavior
+
+            new waitForTurn(transform, _variableList),
             new Sequence(new List<Node>
             {
+                new Shoot(transform,_variableList)
+
+            }),
+            new Sequence(new List<Node>
+            {
+                new Task_selectTarget(transform,_variableList),
                 new taskMove(transform, _variableList)
                //TODO: Add check enemy and go to behavior
             }),
+
+            
         
 
        // new TaskPatrol(transform, waypoints)
-        }); ;
+        }) ; ;
 
         return root;
     }

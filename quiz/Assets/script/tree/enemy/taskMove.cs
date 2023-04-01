@@ -26,8 +26,28 @@ public class taskMove : Node
 
         
 
-        Vector2 direction = Vector2.left*-1;
-        if (_variableList.canProgress == true)
+        Vector2 direction = Vector2.zero;
+
+        if (_transform.position.x < _variableList.target.transform.position.x)
+        {
+            // ai is left of target
+            direction = Vector2.right;
+
+        }
+        else
+        {
+            // ai is right of target
+            direction = Vector2.left;
+        }
+
+        if(_variableList.distenceFromTarget < 5 && _variableList.isGrounded == true)
+        {
+            Debug.Log("close enuph");
+            _variableList.canShoot = true;
+            return NodeState.FAILURE;
+        }
+
+        if (_variableList.canProgress == true )
         {
             Vector3 lastPosition = _transform.position;
 
@@ -85,7 +105,7 @@ public class taskMove : Node
         GameObject holeDetector;
         if (direction == 1)
         {
-            Debug.Log("Right hole detector");
+            //Debug.Log("Right hole detector");
              holeDetector = _variableList.rightHoleDetection;
         }else 
         {
@@ -97,7 +117,7 @@ public class taskMove : Node
 
         if (hit.collider != null)
         {
-            Debug.Log("Hole in the ground");
+            //Debug.Log("Hole in the ground");
             return false;
         };
         return true;
@@ -131,7 +151,7 @@ public class taskMove : Node
         foreach (GameObject point in listOfpoint)
         {
             LayerMask ground = 6;
-            RaycastHit2D hit = Physics2D.Raycast(point.transform.position, direction, 4, _variableList.groundLayer);
+            RaycastHit2D hit = Physics2D.Raycast(point.transform.position, direction, 2, _variableList.groundLayer);
             Debug.DrawRay(_transform.position, direction *2, Color.red);
             if (hit.collider == null)
             {
@@ -140,7 +160,8 @@ public class taskMove : Node
 
         }
 
-        if(openSpace > 2)
+        Debug.Log(openSpace);
+        if(openSpace >= 2)
         {
             return true;
         }

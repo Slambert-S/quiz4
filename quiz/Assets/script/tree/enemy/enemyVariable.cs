@@ -16,4 +16,10 @@ public class enemyVariable : MonoBehaviour
     public GameObject limiteLeft;
     public GameObject LeftHoleDetection;
     public GameObject[] listRayPointOver;
+    public GameObject target;
+    public float distenceFromTarget;
+    public bool canShoot;
+    public bool canActe = false;
+
+    public bool tookhisShot = false;
 }

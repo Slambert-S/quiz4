@@ -29,6 +29,7 @@ public class projectile : MonoBehaviour
         if (colision)
         {
             GetComponent<amoDestrction>().collisionDetected(gameObject.name);
+            GameObject.Find("gameManager").GetComponent<turnManager>().bullethit();
         }
 
     }
@@ -49,8 +50,8 @@ public class projectile : MonoBehaviour
             distance = Vector2.Distance(childe.transform.position, position);
 
             //Change later to use radius of the object
-            float inside = hitbox + 1.2f;
-            float outside = hitbox - 1.2f;
+            float inside = hitbox + 0.72f;
+            float outside = hitbox - 0.722f;
 
             if (inside > distance)
             {
@@ -69,8 +70,8 @@ public class projectile : MonoBehaviour
             distance = Vector2.Distance(childe.transform.position, position);
 
             //Change later to use radius of the object
-            float inside = hitbox + 1.2f;
-            float outside = hitbox - 1.2f;
+            float inside = hitbox + 0.72f;
+            float outside = hitbox - 0.72f;
 
             if (inside > distance)
             {
