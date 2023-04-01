@@ -58,7 +58,7 @@ public class previewTrajectory : MonoBehaviour
         launchAngle = this.GetComponent<angleBetwenCursor>().getAngle();
        // initialVelocity = GetComponent<playerController>().prefabGrenade.
         initialPosition = transform.position;
-        Debug.Log(launchAngle);
+        //Debug.Log(launchAngle);
         GameObject.Find("lineRender").GetComponent<lineControlelr>().SetUpLine(getPointPreview());
     }
 

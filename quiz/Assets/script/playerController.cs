@@ -37,17 +37,17 @@ public class playerController : MonoBehaviour
             updateWeapon(-1);
             }
 
-        if (Input.GetButtonDown("1")){
+        if (Input.GetKeyDown("1")){
             selectedWeapon = 0;
             updateWeapon(0);
         }
 
-        if (Input.GetButtonDown("2")){
+        if (Input.GetKeyDown("2")){
             selectedWeapon = 1;
             updateWeapon(0);
         }
 
-        if (Input.GetButtonDown("3"))
+        if (Input.GetKeyDown("3"))
         {
             selectedWeapon = 2;
             updateWeapon(0);
@@ -58,7 +58,7 @@ public class playerController : MonoBehaviour
         float move = Input.GetAxis("Horizontal");
         Vector3 lastPosition = transform.position; 
         transform.position += new Vector3(move * speed * Time.deltaTime, 0f, 0f);
-        if (_wallDetection.touchingWall(0.5f))
+        if (_wallDetection.touchingWall(0.25f))
         {
             transform.position = lastPosition;
         }

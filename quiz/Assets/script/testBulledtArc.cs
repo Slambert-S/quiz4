@@ -67,7 +67,7 @@ public class testBulledtArc : MonoBehaviour
         // Calculate the time since launch
 
         float timeSinceLaunch = Time.time - launchTime;
-
+      
 
         // Calculate the horizontal position
         float horizontalPosition = horizontalDistance * timeSinceLaunch / timeOfFlight;
@@ -81,10 +81,13 @@ public class testBulledtArc : MonoBehaviour
 
         // Move the game object to the current position
         transform.position = currentPosition;
-       
 
 
-        bool colision = checkColisions();
+        if (timeSinceLaunch < 0.1){
+            return;
+        }
+        Debug.Log(timeSinceLaunch);
+            bool colision = checkColisions();
         if (colision)
         {
             GetComponent<amoDestrction>().collisionDetected(gameObject.name);
