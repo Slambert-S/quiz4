@@ -18,7 +18,7 @@ public class amoDestrction : MonoBehaviour
         
     }
 
-    public void collisionDetected()
+    public void collisionDetected(string shooterName)
     {
         Debug.Log("in collisionDetected");
         Vector2 position = this.transform.position;
@@ -39,7 +39,10 @@ public class amoDestrction : MonoBehaviour
 
             if (inside > distance)
             {
+                if(childe.transform.name == shooterName)
+                {
 
+                }
                 Debug.Log(childe.name);
                 //childe.GetComponent<destructable_wall>().destroyWall();
                // wallDestroyed++;

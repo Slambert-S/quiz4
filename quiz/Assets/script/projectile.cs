@@ -28,7 +28,7 @@ public class projectile : MonoBehaviour
         bool colision = checkColisions();
         if (colision)
         {
-            GetComponent<amoDestrction>().collisionDetected();
+            GetComponent<amoDestrction>().collisionDetected(gameObject.name);
         }
 
     }

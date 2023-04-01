@@ -18,7 +18,7 @@ public class checkWallCollisions : MonoBehaviour
         {
             GameObject childe = GameObject.Find("wallParent").transform.GetChild(i).gameObject;
             distance = Vector2.Distance(childe.transform.position, position);
-            float inside = ray + 1;
+            float inside = ray + 0.5f;
             //int inside = ray + 1;
             //  Debug.Log(distance);
             // Debug.Log(inside);

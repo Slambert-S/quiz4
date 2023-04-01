@@ -12,17 +12,48 @@ public class playerController : MonoBehaviour
     public bool isGrounded = false; // is the character on the ground?
     private Rigidbody2D rb; // reference to the character's rigidbody
 
-    private checkWallCollisions _wallDetection;
+    public int selectedWeapon = 0;
+    private previewTrajectory prevTrajectory;
 
+    private checkWallCollisions _wallDetection;
+    public GameObject[] prefabWeapon;
     void Start()
     {
         // get the rigidbody component
         rb = GetComponent<Rigidbody2D>();
         _wallDetection = gameObject.GetComponent<checkWallCollisions>();
+        prevTrajectory = GetComponent<previewTrajectory>();
     }
   
-    void FixedUpdate()
+    void Update()
     {
+        
+            if (Input.GetAxisRaw("Mouse ScrollWheel") > 0)
+            {
+            updateWeapon(1);
+            }
+            if (Input.GetAxisRaw("Mouse ScrollWheel") < 0)
+            {
+            updateWeapon(-1);
+            }
+
+        if (Input.GetButtonDown("1")){
+            selectedWeapon = 0;
+            updateWeapon(0);
+        }
+
+        if (Input.GetButtonDown("2")){
+            selectedWeapon = 1;
+            updateWeapon(0);
+        }
+
+        if (Input.GetButtonDown("3"))
+        {
+            selectedWeapon = 2;
+            updateWeapon(0);
+        }
+
+
         // move the character left or right
         float move = Input.GetAxis("Horizontal");
         Vector3 lastPosition = transform.position; 
@@ -42,9 +73,64 @@ public class playerController : MonoBehaviour
             isGrounded = false;
         }
 
+        if (Input.GetButtonDown("Fire2"))
+        {
+            GameObject bullet = Instantiate(prefabWeapon[selectedWeapon], transform.position, Quaternion.identity);
+            float angle = GetComponent<angleBetwenCursor>().getAngle();
+            bullet.GetComponent<testBulledtArc>().launchAngle = angle;
+            bullet.GetComponent<testBulledtArc>().readyToLaunch = true;
+            if(selectedWeapon == 1)
+            {
+                if(angle <90 && angle >= -90)
+                {
+
+                    bullet.transform.Rotate(Vector3.forward * -90);
+                }
+                else
+                {
+                    bullet.transform.Rotate(Vector3.forward * 90);
+                }
+            }
+        }
+
         // check if the character is grounded by casting a raycast downward
         RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.down, groundDistance, groundLayer);
         isGrounded = hit.collider != null;
+    }
+
+    private void updateWeapon(int direction)
+    {
+        selectedWeapon += direction;
+        if(selectedWeapon  <= -1)
+        {
+            selectedWeapon = 2;
+        }
+        if(selectedWeapon >= 3)
+        {
+            selectedWeapon = 0;
+        }
+
+        switch (selectedWeapon)
+        {
+            
+            case 0:
+                print("Whadya want?");
+                prevTrajectory.initialVelocity = 10;
+                
+                break;
+            case 2:
+                print("Grog SMASH!");
+                prevTrajectory.initialVelocity = 30;
+                break;
+            case 1:
+                print("Ulg, glib, Pblblblblb");
+                prevTrajectory.initialVelocity = 15;
+                break;
+            default:
+                print("Incorrect intelligence level.");
+                break;
+        }
+
     }
 }
 

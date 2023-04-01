@@ -42,7 +42,7 @@ public class debugPress : MonoBehaviour
         bool colision =checkColisions();
         if (colision)
         {
-            GetComponentInChildren<amoDestrction>().collisionDetected();
+            GetComponentInChildren<amoDestrction>().collisionDetected(gameObject.name);
         }
         
     }
