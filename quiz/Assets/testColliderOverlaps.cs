@@ -23,7 +23,7 @@ public class testColliderOverlaps : MonoBehaviour
         Vector2 position = this.transform.position;
         float distance = 0;
 
-       int nbChild = GameObject.Find("wallParent").transform.childCount;
+        int nbChild = GameObject.Find("wallParent").transform.childCount;
         int maxDestruction = 3;
         int wallDestroyed = 0;
 

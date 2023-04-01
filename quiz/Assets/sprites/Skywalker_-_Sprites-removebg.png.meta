@@ -1,0 +1,5293 @@
+fileFormatVersion: 2
+guid: 67ec136544cb6dd478a625eeb44ce845
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 542
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979f8a58bacd71144891050d96fe85e8
+      internalID: -1224881437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 542
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd91fb6d25669d429d12f615b471958
+      internalID: 157303661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 539
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a627cb4bced13ba4a9e30d7716ec7efe
+      internalID: -1969357347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 541
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e477f186cde1a7342838870d758f5210
+      internalID: 1387472247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_4
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 540
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e157f2cfa8cf83e44b6af00b8479dda6
+      internalID: 2135057984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_5
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 539
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c3e91af90dcfd44a927cdfdce4cecb
+      internalID: 1627256170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_6
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 539
+        width: 103
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f92efe359075e241ac70846d81f9282
+      internalID: -668376837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_7
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 539
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab457af71254a89439486309f83c7c6d
+      internalID: 1143672667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_8
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 545
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f4694fb030f3f4b8fcba375167dec9
+      internalID: -262086600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_9
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 543
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd43c21ce3920e547999dd38f6dfedf4
+      internalID: 757130291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_10
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 543
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b15efcc0fe3e74aad7cadfbac640a2
+      internalID: -833313643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_11
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 548
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb5997d49e0ec949b520b04f16df751
+      internalID: -7496704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_12
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 543
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40aab7f566e785b4fb352e510d475728
+      internalID: -1519130175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_13
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 543
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1737944272720ad40aa5cc05a58a024d
+      internalID: -1427959280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_14
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 546
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30171538cfded504db49455cfa1f4c64
+      internalID: -978893419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_15
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 545
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c962c1e5b93539b49b9e11a93d4aebef
+      internalID: 1382302297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_16
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 543
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bfb26ba8c8aaf4ab179c4ac88e3d88
+      internalID: -410627743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_17
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 547
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1417e20a2f5497449ee3e06b1503c70
+      internalID: 852588361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_18
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 545
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2417b5994948943902632a30d79a40
+      internalID: 869655061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_19
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 544
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c0f33f111272740ada3b619409ed66
+      internalID: -1930448805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_20
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 546
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39ff9f2bdc3f084380ed949b8cfb06f
+      internalID: 1058487189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_21
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 546
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0346b95e2dac8f84fa18da309e7590c4
+      internalID: -1009083656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_22
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 544
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091ab6c3cc6d6594ca6f9e8d9c52bcc3
+      internalID: -2049379959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_23
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 545
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027396288bddb954e98056f85b0daa92
+      internalID: 1533068251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_24
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 543
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a4029978f2a0a438f757cc9e5c1eba
+      internalID: -1624129644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_25
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 541
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d73a8513dc2cc1439404fd4b73693db
+      internalID: 1535989940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_26
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 545
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60626253720db8c47bf783568cd9ba0e
+      internalID: 353307698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_27
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 544
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc772be9e965b248a188a36b00690f1
+      internalID: 568140826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_28
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 541
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eaef510a32f49540b926e6c9b392cec
+      internalID: -740138208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_29
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 548
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78c515c0793c72488d2a1c3466b6847
+      internalID: -1297783814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_30
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 548
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3885f2d8272164d853d18f024ed2e7
+      internalID: -1502009784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_31
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 546
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0028cc3c14a322d47b0c81fd13b85781
+      internalID: 1984739843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_32
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 497
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f91512cb1551d4fad7ebb0277af408
+      internalID: -1930835774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_33
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 497
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd955fca5445db41a55cde2a55114cc
+      internalID: 1682272560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_34
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 494
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515bd0f77adf74b4585fcda27de1e861
+      internalID: -1656908888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_35
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 499
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed532a57b4b13d74eb8dbf619087ecaf
+      internalID: -1770577886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_36
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 498
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ac6f3ee2d71b243aaa110bbf698b9a
+      internalID: 1244443083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_37
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 495
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e052ecba645e2c46b1318d2abd65de9
+      internalID: -984832609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_38
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 499
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389fe6a501b965b41977adb1734e3d30
+      internalID: 705531173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_39
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 496
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318a8ba5fd5d4a34a837447c3a5514dc
+      internalID: 1510984633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_40
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 494
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20dce2f376be0cc42a9f256bdd6c9c2e
+      internalID: -635135646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_41
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 490
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d9d6db514bca746bf905c9f9517ab7
+      internalID: -654737535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_42
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 509
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49389c2d0ebf1d946b80decc2c6b4174
+      internalID: 1042049016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_43
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 495
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9367fdcbfb2a204a98be5f9c7cb54b9
+      internalID: 1569276187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_44
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 493
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9746e52a91ed16a468c23ee89ca8a7a6
+      internalID: -1411890869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_45
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 491
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4c1b86dcbe4814a90b7face070b396
+      internalID: 40631644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_46
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 497
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884b14c4a217d924ba0ec2f1910aafda
+      internalID: 1950730788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_47
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 496
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f174cbe0ef63a4e8b6f755a22677a2
+      internalID: 724333015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_48
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 495
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e84f59fc03ab30448778f43c2941eea
+      internalID: 538899082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_49
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 500
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3269a7bc2fb724c9a776e820960d30
+      internalID: 814070130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_50
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 497
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc098cfb9d9fda4ea697b70e9505d9f
+      internalID: 999737456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_51
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 496
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62741db7c655dd45991efe8f7648187
+      internalID: 850133880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_52
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 501
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e125cf95bce83a40be852bf492f6860
+      internalID: 2017432038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_53
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 501
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7398b4fc56c390f4ea8c3275c6a86347
+      internalID: 1100424180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_54
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 498
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f810cbe6b2014a14f9a12b2e0b1cdd1d
+      internalID: 791178331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_55
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 502
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1d2a5dedfa75a4c9688cf229f92dc7
+      internalID: -185390328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_56
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 502
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c2fee4c7d78f649b7b662c786783a4
+      internalID: 312876368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_57
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 500
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98efd93329d0e2944997b88955f0a3de
+      internalID: -1857832906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_58
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 499
+        width: 71
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fdc58f6e9f5e047b70fa4dfa8fb5bf
+      internalID: -649962186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_59
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 495
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d46242766ac16b48b38808aa7657f7a
+      internalID: -496874016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_60
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 497
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535d9946a9d0ff3409230dcc893c0b9a
+      internalID: -558468437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_61
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 434
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304cac2145c3b6848bb40f247ed4b9e8
+      internalID: 1661954756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_62
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 393
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1d67cd204cb3c46a2857bdff352d83
+      internalID: 1003190664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_63
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 443
+        width: 17
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4e381d3516031419e5db5affe61021
+      internalID: 231458978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_64
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 443
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ba22ecf3c670946a85be125b027fb6
+      internalID: -2000519234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_65
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 455
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5046cb13d02f534597ae493bc9cd00c
+      internalID: -975329869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_66
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 453
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49120b2adee1f834d9b51d43d99438dd
+      internalID: 941054261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_67
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 452
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad567814234cc1b4699eb7be8d913e51
+      internalID: -38634138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_68
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 451
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7e7af79e526b54a9196cb4a3c81e11
+      internalID: 2089519415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_69
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 450
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78492ee6f073d6f4b81c49f51cd2ad27
+      internalID: 2066577346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_70
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 452
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca77bc1253aeef4d8f20c52d0885a72
+      internalID: -1040229667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_71
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 452
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7347b6fe08382264d91845288a4ef7e1
+      internalID: -318264190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_72
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 451
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867d39ceed82b5d42a050bc9cc792db4
+      internalID: 1593233088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_73
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 450
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8a8fef05dd24a4ea875d899cc3bb9a
+      internalID: 1462894721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_74
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 447
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8956f35530a562f489a2937cd6e82368
+      internalID: -1668055338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_75
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 449
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b0017d75cf59b4cb12e39eef98c358
+      internalID: -331422115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_76
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 448
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1e483f6d9271046a3e45d87d7a70f0
+      internalID: -761113686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_77
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 448
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f059725de33772488aa711b1455dac6
+      internalID: 729243314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_78
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 452
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dfb7f682cc78c4f93d966982f82303
+      internalID: -1302997454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_79
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 451
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9872fb2e288372b4499f371ac34b2e29
+      internalID: -1263175249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_80
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 448
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7096eb5db00cfeb4eade0faacc6a59b5
+      internalID: 500965098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_81
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 450
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e49a9c5ada3544db91d243264f3c5d
+      internalID: -354640698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_82
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 450
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45da0bf7f0b556d429c0f887829c9846
+      internalID: 1307555729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_83
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 447
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7778c68b43f574cadce4490df4f3b2
+      internalID: -51969607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_84
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 449
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39783e2ddaed2a44a27e631ab9071e2
+      internalID: -188049622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_85
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 446
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1e903b80dba7b4d88865f9f11ac312
+      internalID: 1907475495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_86
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 444
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbc6214afeeea142ae70e7f28c95223
+      internalID: 1786724301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_87
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 447
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e9be7e1ac53a64a81f0bebeb5aaf00
+      internalID: 466352696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_88
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 447
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c746c3ba43c4bc4a8d94dc230fe9f2e
+      internalID: 1094410731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_89
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 444
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40f1324fc4faa84491b14975a02710f
+      internalID: 321521176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_90
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 449
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a70cd23b6dcba441b96648d4d67db62
+      internalID: -673250328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_91
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 447
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8732b92d63ebdc241af82e04c5af9838
+      internalID: -1932031401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_92
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 445
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4c7c5cf8c141a40af1ab11ab0da261
+      internalID: -1883570848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_93
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 448
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc7dd44e2fb7ad4ba1b69d3969f533e
+      internalID: 1065954228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_94
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 450
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9a1ac07ea010144a38758322a3e9ec
+      internalID: -1541060719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_95
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 442
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7b38766216cb543adea6fbd2d71241
+      internalID: 192642558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_96
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 388
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cf2aeba231c324595feb785ece4dfe
+      internalID: 253625756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_97
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 386
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1290935b73797a143a3ad98ba5d0f55a
+      internalID: 1088422119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_98
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 393
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a88d39966a50574999b27395da32cd7
+      internalID: 1962716900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_99
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 397
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1797564b7065ce44ba923036f485f6b2
+      internalID: 282870858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_100
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 396
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216a6a42045d8b04ea925bbbbfcc9e3f
+      internalID: 2023237735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_101
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 394
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a126c1549831ba4e8cf3ed0a4d2efc1
+      internalID: 609523762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_102
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 398
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7825724968f7ccd438faec22a25884a5
+      internalID: 1611841496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_103
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 397
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edeb52c29a0f4234c8e71710e30a713e
+      internalID: 245892829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_104
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 398
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2450ba3ed45292e44b79cc068dc884a1
+      internalID: -364880181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_105
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 398
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c040562a6b110bd4f9793ca62406adaa
+      internalID: 1631208539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_106
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 392
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd6c9cf276cab44191471a66514589e
+      internalID: 1451281023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_107
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 401
+        width: 55
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca7577cc1f7e1c4e8e4d2efa3076bf4
+      internalID: -1337938233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_108
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 392
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130a1218728c5d24da5975ee1d41b4b6
+      internalID: 1832145122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_109
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 386
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09db820cbd9b515449884db75b23d1d2
+      internalID: 1585731434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_110
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 397
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30febe354e31ce046bd92c8c7f5a07b3
+      internalID: -1915994518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_111
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 398
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c416f3196fcbef4486b8ce5d7e33aba
+      internalID: 1781693706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_112
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 399
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bdd483c2af16c4ea7539c4965ca6ba
+      internalID: -120358336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_113
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 396
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff8b870e6a546842a88432132589735
+      internalID: -935488491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_114
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 398
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b4901dc975bae46af108de989e9c30
+      internalID: -634132735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_115
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 396
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f82294a99d37f84d87d00dee9ab4968
+      internalID: 1360372972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_116
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 394
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38c6597b62f6c24184f7f7e198c69bd
+      internalID: 44226405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_117
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 398
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6782f08a5c11b1c42a4425f9d3296e3b
+      internalID: 1341823620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_118
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 397
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6dddd2a49e647842b25d34e013aea2d
+      internalID: -1925746507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_119
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 394
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b8844a47c70ad49b68e69904ff38e7
+      internalID: -392979485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_120
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 389
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bdc30b100d4024f8dbe688e7311f6d
+      internalID: 540348871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_121
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 388
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41968242fade3224a9033489a39dc6e1
+      internalID: -1187960949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_122
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 387
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ebbcdd58e09d24c931aa841e5e6a24
+      internalID: 1893639775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_123
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 350
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f394d3171f9ed4aa5cae7fe941753d
+      internalID: -572660594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_124
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 350
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c450020fad1e28a4ea0d5b2b341f1fc1
+      internalID: 652238371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_125
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 349
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd000cf658a1cb409b143fdbb7d0a0b
+      internalID: 17872578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_126
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 349
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddeb9f212d6397e4c94aad9c732e31cb
+      internalID: 1951103840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_127
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 352
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2584adadc7a5bb4ebee19c562ce52e3
+      internalID: 1923422667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_128
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 351
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fb493b7d6ab82489150f58e86156ce
+      internalID: -1184191143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_129
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 347
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbaa478f90caaa242bc359653961b70f
+      internalID: -2143871676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_130
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 351
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b85810df0ce3b247be3af5660753a14
+      internalID: 878580293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_131
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 352
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81572d817a07dee44a6c48dca506f4f4
+      internalID: 1514680081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_132
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 351
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b6bc95a88c6614a9d281d6081362e7
+      internalID: 536097786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_133
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 349
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd91c0f465783064bb0021500534df7b
+      internalID: 1887479912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_134
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 350
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df0c10050b27834585453c615f254e0
+      internalID: 795691523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_135
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 350
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c752a802988e6d41870513748d2fc83
+      internalID: -1022575475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_136
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 347
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45e3442bbaae6b4f8854c474bcaf59e
+      internalID: 1392130399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_137
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 351
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d2168cd75059346ab18766641f5e87
+      internalID: -1552048576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_138
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 350
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70530cc54c86334b896bcd173f96dfc
+      internalID: -1747858351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_139
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 348
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80b849ef1f17d74798af6cdc9184caf
+      internalID: -613577236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_140
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 352
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c6a4197452ea047bd8a53d46692fb2
+      internalID: 348560460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_141
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 351
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ce3cf948d26284281fdf3cab612b4b
+      internalID: 294716448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_142
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 353
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697a6887ae2f33545b358fb8bfd43f7f
+      internalID: 310520166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_143
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 351
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef2827fb42c23742a605b3284dd73b4
+      internalID: 397725858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_144
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 348
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44588d90081b6c8499d0f4370aeb75b3
+      internalID: 96498425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_145
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 348
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab21d9b7925e5cb40ab027a846b0d6fd
+      internalID: -1900434345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_146
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 350
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e304bc084ba5441beebe7122f42a7d
+      internalID: 2132794617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_147
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 349
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9449e688fd30f3941912362c75cf11ab
+      internalID: 839162624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_148
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 347
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d191294aebc86440bfc052185afefe1
+      internalID: -1768379071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_149
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 349
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b884f9996e44a6a4fb926ffa4aa26145
+      internalID: -1094834490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_150
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 347
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4a060711603a4499e4cae37ef64331
+      internalID: -1680999154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_151
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 344
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bf9b01127d45649a7a732b970fbdde
+      internalID: 1289310606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_152
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 347
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3451ac65d6a22014b8a571f34c81e6b8
+      internalID: 388103857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_153
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 345
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ff51ddc9f6ec6489d4a6e6df0c7d8b
+      internalID: -769837808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_154
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 342
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303e4e81218d7964fb4f4e58de8b053a
+      internalID: -1987990437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_155
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 351
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70393175e46d9374a8cd37dc9fa5ffdd
+      internalID: 1805876390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_156
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 349
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4017ef1d29889478e83889d03aab08
+      internalID: -681798037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_157
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 347
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f020e56a66476ae469ce0afaea8c336f
+      internalID: -527395419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_158
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 313
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f6a3a26fa97054ab6b45ea4fb72085
+      internalID: -1511889744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_159
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 312
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eca85884c2a3bc4ba7da6e5b29a90ee
+      internalID: 1250529492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_160
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 316
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565d61a8ba04b4148b1cef1b9cf55ee0
+      internalID: -1311522501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_161
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 314
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a704a6e90e67a64bbf802f1172a8f52
+      internalID: 20053583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_162
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 312
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bad2977e324189468949cb019e7981a
+      internalID: 1496802329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_163
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 312
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4145631a11d615f4097961a8c84eaae1
+      internalID: 1943153153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_164
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 303
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152dabc3efea63b44ab3a02f3fbda9db
+      internalID: -1689928524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_165
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 308
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf849c8569bf135429d04606e892ebdc
+      internalID: -1679880235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_166
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 198
+        width: 130
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc66fb6cf566be74895f2ea4eeaaa05a
+      internalID: 295625802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_167
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 328
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b99f14127fe074d9a0b3879cde3273
+      internalID: 1554473843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_168
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 312
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68e5c620d5a13a4abeb0691822fe040
+      internalID: -1150113247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_169
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 308
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f34aa53d49115e4c8f3fbdd6348c293
+      internalID: -1925169866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_170
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 308
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd5810dc20fbd04289450b499aea51a
+      internalID: 937177198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_171
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 305
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4416339eb7c3dcd4cbb7e2d2fb0a9e85
+      internalID: -248085044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_172
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 299
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416f74171c1d02747ad5784f43512c93
+      internalID: -1310302246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_173
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 299
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f9a6c753f5e4b47bea5bad8027e541
+      internalID: 1113207504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_174
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 299
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55b9e7436cbb0a40a56624e745b54ff
+      internalID: 344561083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_175
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 276
+        width: 86
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92038abcc18316d4d99fdd3655c8eacf
+      internalID: 2098739613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_176
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 322
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b72f73045d7db4986f13d6b31901dd
+      internalID: -769030883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_177
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 277
+        width: 54
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d9b0142ebefd1449152be1fe79bfc5
+      internalID: -1648032690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_178
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 279
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ab32c03aeb34445b214a0b26d0206f
+      internalID: -1587114348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_179
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 278
+        width: 54
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9900c48eb877d4444a26467ffe69542f
+      internalID: -1316156859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_180
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 282
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857372e4a1c03d748ba6f27cccda0011
+      internalID: 643222422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_181
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 284
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4f1e434fb888d41883d6233293b641
+      internalID: -241356239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_182
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 282
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3757539705736a541b380f01199950d0
+      internalID: -1623010061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_183
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 281
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2127992dc0630d541b09378eba4286eb
+      internalID: 1347099576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_184
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 281
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941abb6a96c56aa419d8a0b0036d641f
+      internalID: 494217641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_185
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 282
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58a3ec2c3f585c488696c8992c42b63
+      internalID: -1075209430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_186
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 281
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9beba9867b80834f85ae237ad20bc98
+      internalID: 1555886982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_187
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 281
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c05f122a668c7344be67d78cddccf27
+      internalID: -1803108187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_188
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 283
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ad07ed94128994fb35e494780f07dd
+      internalID: -1437343084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_189
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 283
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263a070534120e84fa656590e2a8657a
+      internalID: -2008741908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_190
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 284
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c43a254d9de6943bf00b7d4d88d04d
+      internalID: -1657722051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_191
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 274
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3357f6e67d5d89141b128b05d9bd52e6
+      internalID: -1923885664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_192
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 281
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07814821b483b8a4e9c8c9cd23eb88d1
+      internalID: 1645460895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_193
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 277
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd167687845d5b4c8bc0ff4b487e5bb
+      internalID: -671249224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_194
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 281
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af26b6cc19b050c479fee19d391ec649
+      internalID: -1193934845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_195
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 280
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25de62e68368f74c81a844f3deeac83
+      internalID: 2036671935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_196
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 281
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb63d4ba7cfeffd4a816a0b4b75baf23
+      internalID: -1352339648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_197
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 207
+        width: 72
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd3270896b604144be3993626fb964e
+      internalID: 2130980224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_198
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 271
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3cae6bad644cb45b9174e1657a67eb
+      internalID: -1145265018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_199
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 262
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c960a8eb332b5478f4a77b0f66a536
+      internalID: 2070891023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_200
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 266
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0ed560935502140b05de642d527942
+      internalID: 2002299227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_201
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 268
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db7a3c070571dc42835277eadd2a5f2
+      internalID: -892821942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_202
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 268
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2733753dcdde6254880c99404928e7c6
+      internalID: -1961943542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_203
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 234
+        width: 121
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbb8b98b88326e4abf4359d1d05c388
+      internalID: -82905333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_204
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 219
+        width: 143
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d5d45ec8af50a48b53c2b06d388087
+      internalID: -509788525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_205
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 247
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b32fd3f1586a64fa8da305e4e28c9c
+      internalID: 654950258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_206
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 268
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7231ac0dce9694e9cb6c7fb2c76163
+      internalID: 35569733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_207
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 269
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37203a7965f64a344a30b0af488f9d3c
+      internalID: 744093201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_208
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 235
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682e1864c570c3f4fb9bb7cb31aebc36
+      internalID: -1138074302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_209
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 229
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181f12270a98e5043974e5fe0fec3a12
+      internalID: -1168229406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_210
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 227
+        width: 71
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8a45074c6eb0142b27c18a28178b21
+      internalID: 1611443850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_211
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 230
+        width: 53
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a0fd4763048e249b4dae46ab4e7a9a
+      internalID: 1802693958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_212
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 228
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e956318d970ae61488b8b7b028c6cb73
+      internalID: 2027675453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_213
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 232
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fad2e537adaf33439fecdb5745e2e9d
+      internalID: -1592858358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_214
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 248
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0bffc7b850b0e44a52b741d02f7678
+      internalID: -661494085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_215
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 241
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8785f1ce075d6ec42811d772f35e85da
+      internalID: -466040963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_216
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 200
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e55473648eea3743b7c0604885a85af
+      internalID: 708154795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_217
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 225
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519fb4ee34599b243a8598b9952c8e2b
+      internalID: -316902228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_218
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 179
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1274579327ae5a458b50d16544e00da
+      internalID: -1680692624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_219
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 212
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff370a498ffe7d4faeace7f0a23140f
+      internalID: -936839070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_220
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 184
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b294985550c004f833eb2a07a8cb5d
+      internalID: -1243309332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_221
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 192
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38147d5f1d773e6459738a88edcc8433
+      internalID: -1524311119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_222
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 182
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aeec8cb664fe0e478474b9c5c0504cf
+      internalID: 120834540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_223
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 175
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7256dcca2a96da84c818a4b78769feeb
+      internalID: -1858967411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_224
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 179
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6535b86c6de879d4ca57df50b7103ca1
+      internalID: 229867279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_225
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 183
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cba070675193884a862d7399c3e5a94
+      internalID: -246800480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_226
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 172
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70563775761f2d64a93cf5d0bdb11936
+      internalID: 1542732741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_227
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 202
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314c577de0974af4a9fc61d87be10768
+      internalID: -1411538172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_228
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 202
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6397935b6fa994fb33297404ab4c73
+      internalID: 375120419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_229
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 181
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2f610ec57bf4941b3609cff8714651
+      internalID: 820782615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_230
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 181
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0beb7d7f49641004cab468ced9ac649b
+      internalID: 1192646597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_231
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 184
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716c0227dc1ef8247a5d9bbcdb046753
+      internalID: 1502761928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_232
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 152
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7a2513346b0ba41b5ecab8cab5d4b2
+      internalID: -1549343705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_233
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 157
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bf22e32fa78604fa0c849260c10140
+      internalID: 1805371900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skywalker_-_Sprites-removebg_234
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 156
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f6136d9f3f0c84eb29aa7d1ea84824
+      internalID: 1487954464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Skywalker_-_Sprites-removebg_97: 1088422119
+      Skywalker_-_Sprites-removebg_153: -769837808
+      Skywalker_-_Sprites-removebg_55: -185390328
+      Skywalker_-_Sprites-removebg_47: 724333015
+      Skywalker_-_Sprites-removebg_95: 192642558
+      Skywalker_-_Sprites-removebg_60: -558468437
+      Skywalker_-_Sprites-removebg_72: 1593233088
+      Skywalker_-_Sprites-removebg_5: 1627256170
+      Skywalker_-_Sprites-removebg_88: 1094410731
+      Skywalker_-_Sprites-removebg_212: 2027675453
+      Skywalker_-_Sprites-removebg_45: 40631644
+      Skywalker_-_Sprites-removebg_135: -1022575475
+      Skywalker_-_Sprites-removebg_61: 1661954756
+      Skywalker_-_Sprites-removebg_104: -364880181
+      Skywalker_-_Sprites-removebg_125: 17872578
+      Skywalker_-_Sprites-removebg_179: -1316156859
+      Skywalker_-_Sprites-removebg_29: -1297783814
+      Skywalker_-_Sprites-removebg_224: 229867279
+      Skywalker_-_Sprites-removebg_11: -7496704
+      Skywalker_-_Sprites-removebg_80: 500965098
+      Skywalker_-_Sprites-removebg_34: -1656908888
+      Skywalker_-_Sprites-removebg_195: 2036671935
+      Skywalker_-_Sprites-removebg_76: -761113686
+      Skywalker_-_Sprites-removebg_184: 494217641
+      Skywalker_-_Sprites-removebg_18: 869655061
+      Skywalker_-_Sprites-removebg_62: 1003190664
+      Skywalker_-_Sprites-removebg_233: 1805371900
+      Skywalker_-_Sprites-removebg_207: 744093201
+      Skywalker_-_Sprites-removebg_137: -1552048576
+      Skywalker_-_Sprites-removebg_165: -1679880235
+      Skywalker_-_Sprites-removebg_169: -1925169866
+      Skywalker_-_Sprites-removebg_210: 1611443850
+      Skywalker_-_Sprites-removebg_164: -1689928524
+      Skywalker_-_Sprites-removebg_124: 652238371
+      Skywalker_-_Sprites-removebg_12: -1519130175
+      Skywalker_-_Sprites-removebg_50: 999737456
+      Skywalker_-_Sprites-removebg_217: -316902228
+      Skywalker_-_Sprites-removebg_101: 609523762
+      Skywalker_-_Sprites-removebg_63: 231458978
+      Skywalker_-_Sprites-removebg_21: -1009083656
+      Skywalker_-_Sprites-removebg_133: 1887479912
+      Skywalker_-_Sprites-removebg_203: -82905333
+      Skywalker_-_Sprites-removebg_38: 705531173
+      Skywalker_-_Sprites-removebg_13: -1427959280
+      Skywalker_-_Sprites-removebg_42: 1042049016
+      Skywalker_-_Sprites-removebg_92: -1883570848
+      Skywalker_-_Sprites-removebg_31: 1984739843
+      Skywalker_-_Sprites-removebg_119: -392979485
+      Skywalker_-_Sprites-removebg_188: -1437343084
+      Skywalker_-_Sprites-removebg_71: -318264190
+      Skywalker_-_Sprites-removebg_222: 120834540
+      Skywalker_-_Sprites-removebg_113: -935488491
+      Skywalker_-_Sprites-removebg_158: -1511889744
+      Skywalker_-_Sprites-removebg_107: -1337938233
+      Skywalker_-_Sprites-removebg_20: 1058487189
+      Skywalker_-_Sprites-removebg_67: -38634138
+      Skywalker_-_Sprites-removebg_127: 1923422667
+      Skywalker_-_Sprites-removebg_74: -1668055338
+      Skywalker_-_Sprites-removebg_44: -1411890869
+      Skywalker_-_Sprites-removebg_65: -975329869
+      Skywalker_-_Sprites-removebg_197: 2130980224
+      Skywalker_-_Sprites-removebg_151: 1289310606
+      Skywalker_-_Sprites-removebg_79: -1263175249
+      Skywalker_-_Sprites-removebg_90: -673250328
+      Skywalker_-_Sprites-removebg_115: 1360372972
+      Skywalker_-_Sprites-removebg_16: -410627743
+      Skywalker_-_Sprites-removebg_148: -1768379071
+      Skywalker_-_Sprites-removebg_27: 568140826
+      Skywalker_-_Sprites-removebg_33: 1682272560
+      Skywalker_-_Sprites-removebg_187: -1803108187
+      Skywalker_-_Sprites-removebg_171: -248085044
+      Skywalker_-_Sprites-removebg_192: 1645460895
+      Skywalker_-_Sprites-removebg_109: 1585731434
+      Skywalker_-_Sprites-removebg_99: 282870858
+      Skywalker_-_Sprites-removebg_36: 1244443083
+      Skywalker_-_Sprites-removebg_134: 795691523
+      Skywalker_-_Sprites-removebg_93: 1065954228
+      Skywalker_-_Sprites-removebg_214: -661494085
+      Skywalker_-_Sprites-removebg_201: -892821942
+      Skywalker_-_Sprites-removebg_106: 1451281023
+      Skywalker_-_Sprites-removebg_86: 1786724301
+      Skywalker_-_Sprites-removebg_6: -668376837
+      Skywalker_-_Sprites-removebg_174: 344561083
+      Skywalker_-_Sprites-removebg_200: 2002299227
+      Skywalker_-_Sprites-removebg_234: 1487954464
+      Skywalker_-_Sprites-removebg_209: -1168229406
+      Skywalker_-_Sprites-removebg_7: 1143672667
+      Skywalker_-_Sprites-removebg_128: -1184191143
+      Skywalker_-_Sprites-removebg_39: 1510984633
+      Skywalker_-_Sprites-removebg_225: -246800480
+      Skywalker_-_Sprites-removebg_10: -833313643
+      Skywalker_-_Sprites-removebg_176: -769030883
+      Skywalker_-_Sprites-removebg_232: -1549343705
+      Skywalker_-_Sprites-removebg_223: -1858967411
+      Skywalker_-_Sprites-removebg_149: -1094834490
+      Skywalker_-_Sprites-removebg_102: 1611841496
+      Skywalker_-_Sprites-removebg_213: -1592858358
+      Skywalker_-_Sprites-removebg_154: -1987990437
+      Skywalker_-_Sprites-removebg_157: -527395419
+      Skywalker_-_Sprites-removebg_142: 310520166
+      Skywalker_-_Sprites-removebg_120: 540348871
+      Skywalker_-_Sprites-removebg_138: -1747858351
+      Skywalker_-_Sprites-removebg_170: 937177198
+      Skywalker_-_Sprites-removebg_168: -1150113247
+      Skywalker_-_Sprites-removebg_35: -1770577886
+      Skywalker_-_Sprites-removebg_189: -2008741908
+      Skywalker_-_Sprites-removebg_182: -1623010061
+      Skywalker_-_Sprites-removebg_141: 294716448
+      Skywalker_-_Sprites-removebg_49: 814070130
+      Skywalker_-_Sprites-removebg_112: -120358336
+      Skywalker_-_Sprites-removebg_221: -1524311119
+      Skywalker_-_Sprites-removebg_215: -466040963
+      Skywalker_-_Sprites-removebg_162: 1496802329
+      Skywalker_-_Sprites-removebg_205: 654950258
+      Skywalker_-_Sprites-removebg_53: 1100424180
+      Skywalker_-_Sprites-removebg_227: -1411538172
+      Skywalker_-_Sprites-removebg_159: 1250529492
+      Skywalker_-_Sprites-removebg_118: -1925746507
+      Skywalker_-_Sprites-removebg_204: -509788525
+      Skywalker_-_Sprites-removebg_139: -613577236
+      Skywalker_-_Sprites-removebg_17: 852588361
+      Skywalker_-_Sprites-removebg_23: 1533068251
+      Skywalker_-_Sprites-removebg_32: -1930835774
+      Skywalker_-_Sprites-removebg_103: 245892829
+      Skywalker_-_Sprites-removebg_89: 321521176
+      Skywalker_-_Sprites-removebg_66: 941054261
+      Skywalker_-_Sprites-removebg_87: 466352696
+      Skywalker_-_Sprites-removebg_117: 1341823620
+      Skywalker_-_Sprites-removebg_3: 1387472247
+      Skywalker_-_Sprites-removebg_186: 1555886982
+      Skywalker_-_Sprites-removebg_68: 2089519415
+      Skywalker_-_Sprites-removebg_2: -1969357347
+      Skywalker_-_Sprites-removebg_75: -331422115
+      Skywalker_-_Sprites-removebg_114: -634132735
+      Skywalker_-_Sprites-removebg_161: 20053583
+      Skywalker_-_Sprites-removebg_77: 729243314
+      Skywalker_-_Sprites-removebg_150: -1680999154
+      Skywalker_-_Sprites-removebg_43: 1569276187
+      Skywalker_-_Sprites-removebg_22: -2049379959
+      Skywalker_-_Sprites-removebg_132: 536097786
+      Skywalker_-_Sprites-removebg_111: 1781693706
+      Skywalker_-_Sprites-removebg_160: -1311522501
+      Skywalker_-_Sprites-removebg_24: -1624129644
+      Skywalker_-_Sprites-removebg_129: -2143871676
+      Skywalker_-_Sprites-removebg_193: -671249224
+      Skywalker_-_Sprites-removebg_64: -2000519234
+      Skywalker_-_Sprites-removebg_78: -1302997454
+      Skywalker_-_Sprites-removebg_172: -1310302246
+      Skywalker_-_Sprites-removebg_163: 1943153153
+      Skywalker_-_Sprites-removebg_52: 2017432038
+      Skywalker_-_Sprites-removebg_4: 2135057984
+      Skywalker_-_Sprites-removebg_46: 1950730788
+      Skywalker_-_Sprites-removebg_178: -1587114348
+      Skywalker_-_Sprites-removebg_110: -1915994518
+      Skywalker_-_Sprites-removebg_231: 1502761928
+      Skywalker_-_Sprites-removebg_8: -262086600
+      Skywalker_-_Sprites-removebg_206: 35569733
+      Skywalker_-_Sprites-removebg_140: 348560460
+      Skywalker_-_Sprites-removebg_40: -635135646
+      Skywalker_-_Sprites-removebg_57: -1857832906
+      Skywalker_-_Sprites-removebg_152: 388103857
+      Skywalker_-_Sprites-removebg_228: 375120419
+      Skywalker_-_Sprites-removebg_56: 312876368
+      Skywalker_-_Sprites-removebg_196: -1352339648
+      Skywalker_-_Sprites-removebg_1: 157303661
+      Skywalker_-_Sprites-removebg_116: 44226405
+      Skywalker_-_Sprites-removebg_183: 1347099576
+      Skywalker_-_Sprites-removebg_9: 757130291
+      Skywalker_-_Sprites-removebg_28: -740138208
+      Skywalker_-_Sprites-removebg_230: 1192646597
+      Skywalker_-_Sprites-removebg_26: 353307698
+      Skywalker_-_Sprites-removebg_91: -1932031401
+      Skywalker_-_Sprites-removebg_85: 1907475495
+      Skywalker_-_Sprites-removebg_180: 643222422
+      Skywalker_-_Sprites-removebg_70: -1040229667
+      Skywalker_-_Sprites-removebg_84: -188049622
+      Skywalker_-_Sprites-removebg_105: 1631208539
+      Skywalker_-_Sprites-removebg_191: -1923885664
+      Skywalker_-_Sprites-removebg_96: 253625756
+      Skywalker_-_Sprites-removebg_208: -1138074302
+      Skywalker_-_Sprites-removebg_136: 1392130399
+      Skywalker_-_Sprites-removebg_198: -1145265018
+      Skywalker_-_Sprites-removebg_156: -681798037
+      Skywalker_-_Sprites-removebg_41: -654737535
+      Skywalker_-_Sprites-removebg_59: -496874016
+      Skywalker_-_Sprites-removebg_130: 878580293
+      Skywalker_-_Sprites-removebg_14: -978893419
+      Skywalker_-_Sprites-removebg_69: 2066577346
+      Skywalker_-_Sprites-removebg_58: -649962186
+      Skywalker_-_Sprites-removebg_167: 1554473843
+      Skywalker_-_Sprites-removebg_226: 1542732741
+      Skywalker_-_Sprites-removebg_73: 1462894721
+      Skywalker_-_Sprites-removebg_145: -1900434345
+      Skywalker_-_Sprites-removebg_126: 1951103840
+      Skywalker_-_Sprites-removebg_144: 96498425
+      Skywalker_-_Sprites-removebg_0: -1224881437
+      Skywalker_-_Sprites-removebg_81: -354640698
+      Skywalker_-_Sprites-removebg_25: 1535989940
+      Skywalker_-_Sprites-removebg_173: 1113207504
+      Skywalker_-_Sprites-removebg_202: -1961943542
+      Skywalker_-_Sprites-removebg_211: 1802693958
+      Skywalker_-_Sprites-removebg_166: 295625802
+      Skywalker_-_Sprites-removebg_219: -936839070
+      Skywalker_-_Sprites-removebg_122: 1893639775
+      Skywalker_-_Sprites-removebg_30: -1502009784
+      Skywalker_-_Sprites-removebg_51: 850133880
+      Skywalker_-_Sprites-removebg_185: -1075209430
+      Skywalker_-_Sprites-removebg_54: 791178331
+      Skywalker_-_Sprites-removebg_82: 1307555729
+      Skywalker_-_Sprites-removebg_83: -51969607
+      Skywalker_-_Sprites-removebg_98: 1962716900
+      Skywalker_-_Sprites-removebg_123: -572660594
+      Skywalker_-_Sprites-removebg_216: 708154795
+      Skywalker_-_Sprites-removebg_146: 2132794617
+      Skywalker_-_Sprites-removebg_155: 1805876390
+      Skywalker_-_Sprites-removebg_220: -1243309332
+      Skywalker_-_Sprites-removebg_37: -984832609
+      Skywalker_-_Sprites-removebg_15: 1382302297
+      Skywalker_-_Sprites-removebg_229: 820782615
+      Skywalker_-_Sprites-removebg_108: 1832145122
+      Skywalker_-_Sprites-removebg_143: 397725858
+      Skywalker_-_Sprites-removebg_199: 2070891023
+      Skywalker_-_Sprites-removebg_48: 538899082
+      Skywalker_-_Sprites-removebg_194: -1193934845
+      Skywalker_-_Sprites-removebg_190: -1657722051
+      Skywalker_-_Sprites-removebg_100: 2023237735
+      Skywalker_-_Sprites-removebg_147: 839162624
+      Skywalker_-_Sprites-removebg_121: -1187960949
+      Skywalker_-_Sprites-removebg_175: 2098739613
+      Skywalker_-_Sprites-removebg_131: 1514680081
+      Skywalker_-_Sprites-removebg_181: -241356239
+      Skywalker_-_Sprites-removebg_218: -1680692624
+      Skywalker_-_Sprites-removebg_94: -1541060719
+      Skywalker_-_Sprites-removebg_19: -1930448805
+      Skywalker_-_Sprites-removebg_177: -1648032690
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
