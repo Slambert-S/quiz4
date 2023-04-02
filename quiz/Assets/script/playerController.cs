@@ -11,6 +11,9 @@ public class playerController : MonoBehaviour
     public LayerMask groundLayer; // the ground layer
     public bool isGrounded = false; // is the character on the ground?
     private Rigidbody2D rb; // reference to the character's rigidbody
+    public GameObject spriteShorgun;
+    public GameObject spriteGrenage;
+    public GameObject spriteRocket;
     
 
     public int selectedWeapon = 0;
@@ -63,6 +66,16 @@ public class playerController : MonoBehaviour
         {
             transform.position = lastPosition;
         }
+
+        if (move >= 0)
+        {
+
+            GetComponent<SpriteRenderer>().flipX = true;
+        }
+        else
+        {
+            GetComponent<SpriteRenderer>().flipX = false;
+        }
         
         // jump if the character is on the ground and the jump button is pressed
         if (Input.GetButtonDown("Jump") && isGrounded)
@@ -97,6 +110,7 @@ public class playerController : MonoBehaviour
             GameObject camera = GameObject.Find("Main Camera");
             camera.GetComponent<folowPLayer>().player = bullet.transform;
             GameObject.Find("gameManager").GetComponent<turnManager>().playerEndTurn();
+            GetComponent<previewTrajectory>().enabled = false;
 
         }
 
@@ -123,15 +137,25 @@ public class playerController : MonoBehaviour
             case 0:
                 print("Whadya want?");
                 prevTrajectory.initialVelocity = 10;
+                spriteRocket.SetActive(false);
+                spriteShorgun.SetActive(false);
+                spriteGrenage.SetActive(true);
+                
                 
                 break;
             case 2:
                 print("Grog SMASH!");
                 prevTrajectory.initialVelocity = 30;
+                spriteRocket.SetActive(false);
+                spriteShorgun.SetActive(true);
+                spriteGrenage.SetActive(false);
                 break;
             case 1:
                 print("Ulg, glib, Pblblblblb");
                 prevTrajectory.initialVelocity = 15;
+                spriteRocket.SetActive(true);
+                spriteShorgun.SetActive(false);
+                spriteGrenage.SetActive(false);
                 break;
             default:
                 print("Incorrect intelligence level.");

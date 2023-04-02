@@ -32,12 +32,14 @@ public class taskMove : Node
         {
             // ai is left of target
             direction = Vector2.right;
+            _transform.GetComponent<SpriteRenderer>().flipX  = true;
 
         }
         else
         {
             // ai is right of target
             direction = Vector2.left;
+            _transform.GetComponent<SpriteRenderer>().flipX = false;
         }
 
         if(_variableList.distenceFromTarget < 5 && _variableList.isGrounded == true)
@@ -136,7 +138,7 @@ public class taskMove : Node
         }
 
         LayerMask ground = 6;
-        RaycastHit2D hit = Physics2D.Raycast(holeDetector.transform.position, Vector2.down, 4, _variableList.groundLayer);
+        RaycastHit2D hit = Physics2D.Raycast(holeDetector.transform.position, Vector2.down, Mathf.Infinity, _variableList.groundLayer);
         if (hit.collider == null)
         {
             return false;

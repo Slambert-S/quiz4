@@ -90,6 +90,7 @@ public class testBulledtArc : MonoBehaviour
         if (timeSinceLaunch < 0.1){
             return;
         }
+
         Debug.Log(timeSinceLaunch);
             bool colision = checkColisions();
         if (colision)
@@ -105,7 +106,7 @@ public class testBulledtArc : MonoBehaviour
     {
         Vector2 position = this.transform.position;
         float distance = 0;
-        int ray = 1;
+        float ray = 0.5f;
 
         int nbChild = GameObject.Find("wallParent").transform.childCount;
         int maxDestruction = 3;

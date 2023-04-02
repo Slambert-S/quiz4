@@ -183,7 +183,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d979baa084e88e842a767658d847a9ad, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  amoRad: 1
+  amoRad: 0.5
   maxDestruction: 3
 --- !u!114 &4993045547892805194
 MonoBehaviour:

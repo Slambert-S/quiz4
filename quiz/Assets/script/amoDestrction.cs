@@ -39,11 +39,11 @@ public class amoDestrction : MonoBehaviour
 
             if (inside > distance)
             {
-                if(childe.transform.name == shooterName)
+                if(childe.name != shooterName)
                 {
-
+                    Destroy(childe);
                 }
-                Debug.Log(childe.name);
+              //  Debug.Log(childe.name);
                 //childe.GetComponent<destructable_wall>().destroyWall();
                // wallDestroyed++;
             }

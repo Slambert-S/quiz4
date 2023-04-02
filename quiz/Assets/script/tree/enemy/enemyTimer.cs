@@ -1,18 +1,21 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 
 public class enemyTimer : MonoBehaviour
 {
 
 
-    public float timeRemaining = 5;
+    public float timeRemaining = 10;
     public bool timerIsRunning = false;
-   
+    public TMP_Text time;
+    public GameObject ui;
+
     private void Start()
     {
         // Starts the timer automatically
-        timerIsRunning = true;
+        timerIsRunning = false;
     }
     void Update()
     {
@@ -29,6 +32,7 @@ public class enemyTimer : MonoBehaviour
                 timeRemaining = 0;
                 timerIsRunning = false;
                 GetComponent<enemyVariable>().canShoot = true;
+                
             }
         }
     }
@@ -37,13 +41,14 @@ public class enemyTimer : MonoBehaviour
         timeToDisplay += 1;
       
         float seconds = Mathf.FloorToInt(timeToDisplay % 60);
-        Debug.Log(seconds);
+        time.text = seconds.ToString();
         
+
     }
     public void ResetTimer()
     {
         timerIsRunning = false;
-        timeRemaining = 3;
+        timeRemaining = 10;
     }
 
     public void startTimer()
